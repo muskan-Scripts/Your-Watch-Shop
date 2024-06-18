@@ -27,7 +27,7 @@ Author
 This Responsive Watches Website is created by Muskan. For any questions or support, please feel free to reach out.
 
 Access the Deployed Website
-To access the live version of the website, visit https://muskan-Scripts.github.io/Your-Watch-Shop/.
+To access the live version of the website, visit https://muskangupta2002.github.io/Your-Watch-Shop/.
 
 License
 This project is licensed under the MIT License.
